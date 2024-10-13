@@ -1,5 +1,5 @@
 //By:  Ednut
-//https://wa.me/2348102487241
+//https://wa.me/919728714060
 
 const childProcess = require('child_process');
 const path = require('path');
